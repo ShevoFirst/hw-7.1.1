@@ -62,7 +62,7 @@ public class Main {
             if (i == massInt.length - 1) {
                 System.out.print(massInt[i]);
             } else
-                System.out.print(massInt[i] + ", ");
+                System.out.print(massInt[i] + ", ");//
         }
     }
 }
